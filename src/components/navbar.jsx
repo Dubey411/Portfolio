@@ -64,8 +64,8 @@ const Navbar = () => {
     >
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
         <h1 className="text-xl font-bold text-indigo-600 dark:text-indigo-400">MyPortfolio</h1>
-
-        {/* Desktop nav */}
+       
+            {/* Desktop nav */}
         <div className="hidden md:flex items-center space-x-6">
           {navLinks.map((link) => (
             <a

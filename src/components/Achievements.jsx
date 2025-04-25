@@ -44,7 +44,7 @@ const achievements = [
   },
   {
     title: "Tailwind with Ejs",
-    desc: "Created BnB Clone",
+    desc: "Created Airbnb Clone",
     icon: <FaCode className="text-indigo-400" size={28} />,
     certLink: "#",
   },
